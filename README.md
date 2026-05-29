@@ -50,7 +50,7 @@ https://minum-ya-app.surge.sh
 ### Jalankan Lokal
 ```bash
 # Clone repo
-git clone https://github.com/AdrianHanafi/minum-ya.git
+git clone https://github.com/afiii-00/apk-minum-ya.git
 cd minum-ya
 
 # Jalankan local server (butuh Node.js)
